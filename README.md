@@ -1,5 +1,5 @@
 # HTTP Server FLASK
->HTTP-сервер для предоставления информации по географическим объектам.
+>HTTP-server for getting information on geographical objects..
 ## Реализован проект на Python 3.9.10
 В папке проекта предусмотрен файл с пакетами requirements.txt. В целом для работы устанавливался только пакет Flask 2.0.3.
 Для запуска сервера на Flask в script.py в конце встроено:
